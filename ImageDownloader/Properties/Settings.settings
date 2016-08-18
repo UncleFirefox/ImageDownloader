@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ImageDownloader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ImageBaseURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.yannarthusbertrand2.org/index2.php?option=com_datsogallery&amp;func=wmark&amp;oid=</Value>
+    </Setting>
+    <Setting Name="ImageNameBase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Picture_</Value>
+    </Setting>
+    <Setting Name="ImageExtension" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.jpg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
